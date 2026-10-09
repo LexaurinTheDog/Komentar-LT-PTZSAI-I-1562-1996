@@ -32,7 +32,7 @@ Komentaras suskirstytas į du skyrius: **1 skyrius** apima I–II įstatymo skyr
 ## Metodas
 
 - Nuostatų tekstas perkeltas **pažodžiui** iš oficialios e-TAR suvestinės redakcijos, mašininiu būdu, be santrumpų ir praleidimų. Straipsnių dalys šaltinyje numeruojamos („1.“, „2.“), punktai žymimi „1)“, papunkčiai „a)“; komentare nurodoma, pvz., „24 straipsnio 7 dalies 1 punkto a papunktis“.
-- **Indeksai.** e-TAR tekste viršutiniai indeksai užrašyti be pakėlimo: straipsnio antraštė „161 straipsnis“ reiškia 16¹ straipsnį, 2 straipsnio dalis „91.“ – 9¹ dalį, 24 straipsnio dalis „41.“ – 4¹ dalį, o 17 straipsnio 2 dalyje „šio įstatymo 161 straipsnyje“ – 16¹ straipsnį. Pažodinis tekstas paliktas toks, koks yra šaltinyje, o straipsnių antraštėse ir komentare indeksas rašomas pakeltai.
+- **Indeksai.** Viršutiniai indeksai pateikiami taip, kaip jie užrašyti šaltinyje: 16¹ straipsnis, 2 straipsnio 9¹ dalis, 24 straipsnio 4¹ dalis, o 17 straipsnio 2 dalyje – nuoroda „šio įstatymo 16¹ straipsnyje“.
 - **Netekusi galios** 2 straipsnio 2 dalis pateikiama su šaltinio įrašu „Neteko galios nuo 2020-01-01.“
 - e-TAR redakcinės pastabos (informacija apie straipsnių, jų dalių ir punktų pakeitimus, papildymus, numeracijos pakeitimus, taip pat „TAR pastabos“ prie 13 straipsnio ir 26 straipsnio 5 ir 9 dalių) pateikiamos po atitinkamo straipsnio teksto kaip atskiros pastabos; laužtiniuose skliaustuose nurodoma dalis, po kurios pastaba stovi šaltinyje. Pasirašymo formulė ir pakeitimų sąrašas į komentuojamą tekstą neįtraukti; iš jų paimti tik pagrindiniai duomenys šiame įvade.
 - Skyrių antraštės (pvz., III skyriaus „informuoto PACIENTO Sutikimas“) šaltinyje užrašytos nevienoda raidžių registro forma; struktūrinėse antraštėse jos suvienodintos didžiosiomis raidėmis.

@@ -20,7 +20,7 @@
 
 2 dalis nustato, kad nepilnamečiui iki 16 metų priežiūra teikiama tik su jo atstovų sutikimu (išskyrus būtinąją pagalbą). Vis dėlto ir šiuo atveju nepilnametis nėra tik sprendimo objektas: specialistai turi rinktis metodus, labiausiai atitinkančius nepilnamečio interesus, atsižvelgdami pirmiausia į nepilnamečio, o tik po to į atstovų valią. Kilus nesutarimui tarp paciento ir atstovų, metodus parenka gydytojų konsiliumas (2 straipsnio 9 dalis), vadovaudamasis nepilnamečio interesais.
 
-3 dalis įtvirtina „brandaus nepilnamečio“ taisyklę: iki 16 metų pacientas, kuris gydytojo pagrįsta ir medicinos dokumentuose išreikšta nuomone gali pats teisingai vertinti savo būklę, turi teisę savarankiškai kreiptis ir spręsti dėl paslaugų, išskyrus įstatymų nustatytus atvejus. Gydytojo vertinimas turi būti individualus ir dokumentuotas; jis yra šios teisės įgyvendinimo sąlyga. 4 dalis leidžia įstatymais numatyti atvejus, kai sutikimą gali duoti tik pilnametis pacientas – tai specialiųjų įstatymų nuoroda tam tikroms didelės rizikos ar negrįžtamoms intervencijoms.
+3 dalis įtvirtina „brandaus nepilnamečio“ taisyklę: iki 16 metų pacientas, kuris gydytojo pagrįsta ir medicinos dokumentuose išreikšta nuomone gali pats teisingai vertinti savo būklę, turi teisę savarankiškai kreiptis ir spręsti dėl paslaugų, išskyrus įstatymų nustatytus atvejus. Gydytojo vertinimas turi būti individualus ir dokumentuotas; jis yra šios teisės įgyvendinimo sąlyga. 4 dalis leidžia įstatymais numatyti atvejus, kai sutikimą gali duoti tik pilnametis pacientas – tai nuoroda į specialiuosius įstatymus, kurie tokiais atvejais turi pirmenybę prieš 1 ir 3 dalies taisykles.
 
 ### 15 straipsnis — Sutikimo dėl sveikatos priežiūros paslaugų teikimo reikalavimai
 
